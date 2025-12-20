@@ -1,0 +1,7 @@
+path: /Users/cheesecake/data
+train: images/train
+val: images/val
+
+nc: 4
+names: ['caries', 'filling', 'impacted_tooth', 'implant']
+
