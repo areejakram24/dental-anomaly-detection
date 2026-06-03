@@ -1,4 +1,4 @@
-# CV1-Log[README.md](https://github.com/user-attachments/files/23388309/README.md)
+# [README.md](https://github.com/user-attachments/files/23388309/README.md)
 <div align="center">
   <img src="https://img.shields.io/badge/YOLOv8-Dental%20Anomaly%20Detection-brightgreen?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8 Badge">
   <br><br>
@@ -146,14 +146,12 @@ This AI tool is intended to bridge the “diagnostic gap” in dental education 
 
 ## Repository Structure
 
-├── data/
-│   ├── train/
-│   └── val/
-├── models/
-├── runs/
-├── app.py
-├── README.md
-└── requirements.txt
+* `/src` — Core execution directory containing model training pipelines (`train.py`).
+* `/config` — Configuration files detailing pipeline parameters, dataset paths, and class dimensions.
+* `/assets` — Evaluated visual outputs proving model accuracy and bounding-box reliability.
+* `/weights` — Stored model checkpoints including the optimized training weights (`best.pt`).
+* `predict.py` — Production script containing inference pipelines to run detection on test radiographs.
+* `requirements.txt` — Managed Python dependencies ensuring environment reproducibility.
 
 ## Technical Stack
 
