@@ -94,7 +94,7 @@ To create a robust detection system, data was consolidated from multiple sources
 
 To run the Dental Anomaly Detector on your local machine, follow these steps:
 
-git clone https://github.com/yourusername/dental-anomaly-detector.git
+git clone https://github.com/areejakram24/dental-anomaly-detector.git
 cd dental-anomaly-detector
 
 I recommend using a virtual environment to manage dependencies
@@ -166,7 +166,7 @@ This AI tool is intended to bridge the “diagnostic gap” in dental education 
   -------------------
   #Author
 
-  **Developed by Areej Akram (https://www.linkedin.com/in/areej-akram-068447348/)**
+  **Developed by Areej Akram (https://www.linkedin.com/in/areej-a-068447348)**
 
 # Acknowledgements
 
