@@ -94,7 +94,7 @@ To create a robust detection system, data was consolidated from multiple sources
 
 To run the Dental Anomaly Detector on your local machine, follow these steps:
 
-git clone https://github.com/areejakram24/dental-anomaly-detector.git
+git clone https://github.com/areejakram24/dental-anomaly-detection.git
 cd dental-anomaly-detector
 
 I recommend using a virtual environment to manage dependencies
